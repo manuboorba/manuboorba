@@ -1,12 +1,11 @@
 <!--título-->
 <div align="center">
 
-<h1 style="border: none">Hello world</h1>
+# Hello world
 
 </div>
 <!--apresentação-->
 
----
 Sou Manuela, tenho 24 anos e estou cursando Análise e Desenvolvimento de Sistemas. Atualmente estou estudando backend com Java.
 
 <!-- links -->
@@ -19,16 +18,14 @@ Sou Manuela, tenho 24 anos e estou cursando Análise e Desenvolvimento de Sistem
 </div>
 
 <!--GitHub Status-->
-<div style="display: flex; justify-content: center; align-content: center; flex-direction: row">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuboorba&theme=gotham&show_icons=true)](https://github.com/manuboorba/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuboorba&theme=gotham&layout=compact)](https://github.com/manuboorba/github-readme-stats)
-
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=manuboorba&theme=gotham&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuboorba&theme=gotham&layout=compact"/>
+  </div>
 </div>
 
 <!-- gif -->
-
-<div style="display: flex; justify-content: center; padding-bottom: 20px">
-    <img style="height: 128px; border-radius: 998px;" src="https://github.com/manuboorba/manuboorba/blob/main/gif%202.gif?raw=true">
+<div align="center" style="display: flex; justify-content: center; padding: 10px">
+    <img  style="height: 128px; border-radius: 50%;" src="https://github.com/manuboorba/manuboorba/blob/main/gif%202.gif?raw=true">
 </div>
