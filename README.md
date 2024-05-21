@@ -1,5 +1,5 @@
 <!--título-->
-<div align="center">
+<div align="left">
 
 # Hello world
 
@@ -17,15 +17,16 @@ Sou Manuela, tenho 24 anos e estou cursando Análise e Desenvolvimento de Sistem
 
 </div>
 
+<!--GitHub Status-->
+<div align="left">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=manuboorba&theme=gotham&show_icons=true&card_width=445"/>
+  </div>
+</div>
 
 <!--GitHub Status-->
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=manuboorba&theme=gotham&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuboorba&theme=gotham&layout=compact"/>
-    <img  style="height: 140px; border-radius: 50%;" src="https://github.com/manuboorba/manuboorba/blob/main/gif%202.gif?raw=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuboorba&theme=gotham&layout=compact"/> <img  style="height: 140px; width: 123.25px; border-radius: 50%;" src="https://github.com/manuboorba/manuboorba/blob/main/gif%202.gif?raw=true">
   </div>
 </div>
-
-<!-- gif -->
-
