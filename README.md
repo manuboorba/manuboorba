@@ -6,11 +6,11 @@
 </div>
 <!--apresentação-->
 
-Formada em direito em 2021, em 2023 migrei para área de tecnologia. Dei início à minha segunda graduação, em Análise e Desenvolvimento de Sistemas e atualmente busco minha primeira oportunidade de atuação na área. 
+Sou formada em Direito desde 2021. Em 2023, decidi redirecionar minha carreira e iniciei minha segunda graduação, em Análise e Desenvolvimento de Sistemas. Atualmente, estou em busca da minha primeira oportunidade de atuação na área de tecnologia.
 
-Tenho muito interesse na área de desenvolvimento e estou focando meu estudo em Java. Nos últimos meses, além de Java eu estudei HTML, CSS, JavaScript, Git e GitHub, segurança da informação, hardware, entre outros. 
+Tenho grande interesse na área de desenvolvimento, com foco especial em Java. Nos últimos meses, além de Java, estudei HTML, CSS, JavaScript, Git, GitHub, segurança da informação e hardware, entre outros tópicos relevantes.
 
-Sou uma pessoa com facilidade em aprender e muito interessada, costumo resolver problemas de forma racional e busco sempre ter o melhor resultado.
+Possuo facilidade em aprender e um grande interesse em novas tecnologias. Sou uma pessoa que resolve problemas de forma racional, sempre buscando os melhores resultados. Estou entusiasmada para aplicar meus conhecimentos em um ambiente profissional e contribuir com meu desenvolvimento contínuo.
 
 <!-- links -->
 <div align="left">
