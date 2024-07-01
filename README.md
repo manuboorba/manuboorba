@@ -6,7 +6,11 @@
 </div>
 <!--apresentação-->
 
-Sou Manuela, tenho 24 anos e estou cursando Análise e Desenvolvimento de Sistemas. Atualmente estou estudando backend com Java.
+Formada em direito em 2021, em 2023 resolvi começar a estudar tecnologia. Dei início à minha segunda graduação, em Análise e Desenvolvimento de Sistemas e atualmente busco minha primeira oportunidade de atuação na área. 
+
+Tenho muito interesse na área de desenvolvimento e estou focando meu estudo em Java. Nos últimos meses, além de Java eu estudei HTML, CSS, JavaScript, Git e GitHub, segurança da informação, hardware, entre outros. 
+
+Sou uma pessoa com facilidade em aprender e muito interessada, costumo resolver problemas de forma racional e busco sempre ter o melhor resultado.
 
 <!-- links -->
 <div align="left">
