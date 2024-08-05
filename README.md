@@ -5,7 +5,7 @@ void Presentation() {
     char name[] = "Manuela";
     char acknowledgements[] = "System analysis and development";
     char location[] = "Recife, PE, Brazil";
-    char company[] = "Associação Municipalista de Pernambuco ( AMUPE)";
+    char company[] = "Associação Municipalista de Pernambuco (AMUPE)";
     char bio[] = "A girl who likes IT";
     char mail[] = "manuelaborbadev@gmail.com";
 }
